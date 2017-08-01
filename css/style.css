@@ -1,0 +1,7 @@
+body {
+    border: 1px solid red;
+}
+div.container {
+    width: 100px;
+    background-color: darkgray;
+}
